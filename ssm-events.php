@@ -60,7 +60,7 @@ if ( is_admin() ) {
 require plugin_dir_path( __FILE__ ) . 'includes/plugin_update_check.php';
 
 $MyUpdateChecker = new PluginUpdateChecker_2_0 (
-    'https://kernl.us/api/v1/updates/5822547f2bcea204d13efdc8/',
+    'https://kernl.us/api/v1/updates/582262fe747e4d7956839e64/',
     __FILE__,
     'ssm-events',
     1
