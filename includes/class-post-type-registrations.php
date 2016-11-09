@@ -55,6 +55,7 @@ class SSM_Events_Registrations {
 		$supports = array(
 			'title',
 			'thumbnail',
+			'page-attributes',
 		);
 
 		$args = array(
