@@ -71,6 +71,7 @@ class SSM_Events_Registrations {
 			'menu_icon'       		=> 'dashicons-calendar-alt',
 			'has_archive'					=> 'events',
 			'exclude_from_search'	=> false,
+			'hierarchical'	 			=> true
 		);
 
 		$args = apply_filters( 'SSM_Events_args', $args );

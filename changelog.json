@@ -1,5 +1,6 @@
 {
   "0.1.0" : "Initial Release",
   "0.1.1" : "Version Bump",
-  "0.1.2" : "Adds acf-json folder and acf-ssm-event-info.json"
+  "0.1.2" : "Adds acf-json folder and acf-ssm-event-info.json",
+  "0.1.3" : "Adds hierarchical support"
 }
