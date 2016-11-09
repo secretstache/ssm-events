@@ -9,7 +9,7 @@
  * Plugin Name: SSM Events
  * Plugin URI:  http://secretstache.com
  * Description: Enables an Event Custom Post Type.
- * Version:     0.1.1
+ * Version:     0.1.2
  * Author:      Secret Stache Media
  * Author URI:  http://secretstache.com
  * Text Domain: ssm-events

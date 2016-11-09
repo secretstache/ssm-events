@@ -20,7 +20,7 @@ class SSM_Events {
 	 *
 	 * @var string VERSION Plugin version.
 	 */
-	const VERSION = '0.1.1';
+	const VERSION = '0.1.2';
 
 	/**
 	 * Unique identifier for your plugin.
